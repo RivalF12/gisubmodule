@@ -1,0 +1,3 @@
+function baru() {
+    return true;
+}
